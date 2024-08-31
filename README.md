@@ -33,7 +33,7 @@ Feel free to explore these projects to see examples of my work!
 
 If you would like to connect or collaborate on a project, you can reach me at:
 
-- **Email:** belinda.mabende@example.com
+- **Email:** belindamabende@gmail.com
 - **LinkedIn:** [Belinda Mabende](https://www.linkedin.com/in/belinda-mabende)
 - **GitHub:** [belindamabende](https://github.com/belindamabende)
 
